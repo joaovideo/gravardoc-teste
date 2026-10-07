@@ -1,6 +1,6 @@
 # Gravar Doc — downloads de teste (temporário, será apagado após 05/11/2026)
 
-**Windows (versão mais nova, 0.5.1):** [GravarDoc-windows.zip](https://github.com/joaovideo/gravardoc-teste/raw/main/GravarDoc-windows.zip)
+**Windows (versão mais nova, 0.5.3):** [GravarDoc-windows.zip](https://github.com/joaovideo/gravardoc-teste/raw/main/GravarDoc-windows.zip)
 
 1. Baixe e extraia o zip (ex.: em `C:\GravarDoc`).
 2. Dois cliques em `instalar.bat` → responda **Sim**.
